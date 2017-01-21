@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack --progress --watch",
     "test": "npm test"
   },
   "author": "",
